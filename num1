@@ -1,0 +1,4 @@
+#!/bin/bash
+#This is my First project!
+#I am excited
+echo "my name is $HOSTNAME"
